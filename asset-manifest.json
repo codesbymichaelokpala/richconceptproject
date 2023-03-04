@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/richconceptproject/static/css/main.073c9b0a.css",
+    "main.js": "/richconceptproject/static/js/main.0e8e4fc5.js",
+    "static/js/787.28588f36.chunk.js": "/richconceptproject/static/js/787.28588f36.chunk.js",
+    "static/media/logo.svg": "/richconceptproject/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/richconceptproject/index.html",
+    "main.073c9b0a.css.map": "/richconceptproject/static/css/main.073c9b0a.css.map",
+    "main.0e8e4fc5.js.map": "/richconceptproject/static/js/main.0e8e4fc5.js.map",
+    "787.28588f36.chunk.js.map": "/richconceptproject/static/js/787.28588f36.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.0e8e4fc5.js"
+  ]
+}
